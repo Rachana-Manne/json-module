@@ -1,0 +1,11 @@
+{
+    "app_name": "mytool",
+    "version": "1.0",
+    "users": {
+        "user_123": {
+            "theme": "dark",
+            "notifications_enabled": true,
+            "last_updated": "2026-10-17T07:23:51.434721"
+        }
+    }
+}
